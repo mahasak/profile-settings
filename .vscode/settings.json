@@ -5,6 +5,9 @@
     "editor.fontWeight": "normal",
     // Controls whether the editor should render whitespace characters
     "editor.renderWhitespace": "all",
+    "workbench.colorTheme": "GitHub Dark",
+    "editor.fontSize": 14,
+    "editor.tabSize": 2,
     "editor.tokenColorCustomizations": {
         "textMateRules": [
             {
